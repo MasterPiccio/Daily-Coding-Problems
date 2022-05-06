@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\AlGio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\AlGio\\.nuget\\packages"
+    ]
+  }
+}

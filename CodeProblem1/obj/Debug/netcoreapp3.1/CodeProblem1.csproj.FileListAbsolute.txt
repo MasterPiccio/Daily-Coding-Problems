@@ -1,0 +1,13 @@
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\bin\Debug\netcoreapp3.1\CodeProblem1.exe
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\bin\Debug\netcoreapp3.1\CodeProblem1.deps.json
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\bin\Debug\netcoreapp3.1\CodeProblem1.runtimeconfig.json
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\bin\Debug\netcoreapp3.1\CodeProblem1.runtimeconfig.dev.json
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\bin\Debug\netcoreapp3.1\CodeProblem1.dll
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\bin\Debug\netcoreapp3.1\CodeProblem1.pdb
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\obj\Debug\netcoreapp3.1\CodeProblem1.csprojAssemblyReference.cache
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\obj\Debug\netcoreapp3.1\CodeProblem1.csproj.CoreCompileInputs.cache
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\obj\Debug\netcoreapp3.1\CodeProblem1.AssemblyInfoInputs.cache
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\obj\Debug\netcoreapp3.1\CodeProblem1.AssemblyInfo.cs
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\obj\Debug\netcoreapp3.1\CodeProblem1.dll
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\obj\Debug\netcoreapp3.1\CodeProblem1.pdb
+C:\Users\AlGio\source\repos\CodeProblem1\CodeProblem1\obj\Debug\netcoreapp3.1\CodeProblem1.genruntimeconfig.cache
